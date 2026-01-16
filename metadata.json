@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Barcode Label Pro",
+  "description": "A professional web application to generate and export product labels with barcodes to PDF. Supports custom product names, prices, and barcode numbers with high-quality PDF output.",
+  "requestFramePermissions": []
+}
